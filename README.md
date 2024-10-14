@@ -63,4 +63,5 @@ Deploy your app on GitHub:
 git push origin gh-pages
 ```
 
-Your app will be visible shortly at `https://YOUR_GITHUB_NICKNAME.github.io/taxi-fare-interface`.
+Your app will be visible shortly at `https://mhmdalshawaf.github.io/taxi-fare-interface/`.
+https://taxifare-website-6fy9igosb5bmstnjhk2p9x.streamlit.app/
